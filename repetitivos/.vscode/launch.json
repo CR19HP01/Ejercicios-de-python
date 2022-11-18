@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Cristina/Documents/desarrollo de soooooftwareeeeeeeee/2 SEMESTRE/FUNDAMENTOS DE LA PROGRAMACION/python/repetitivos",
+      "program": "c:/Users/Cristina/Documents/desarrollo de soooooftwareeeeeeeee/2 SEMESTRE/FUNDAMENTOS DE LA PROGRAMACION/python/repetitivos/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
